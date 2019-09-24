@@ -1,123 +1,317 @@
-affinity	n.密切关系;吸引力;姻亲关系;类同|
-agar	n.琼脂(一种植物胶)|n.(Agar)人名;(英)阿加;(西、土)阿加尔|
-agronomic	adj.农事的;农艺学的|
-allergy	n.过敏症;反感;厌恶|
-amenable	adj.有责任的：顺从的,服从的;有义务的;经得起检验的|
-angiosperms	n.[植]被子植物(angiosperm的复数)|
-apical	adj.顶上的;顶点的|n.舌尖音|
-beads	玻璃粉|
-biomass	n.(单位面积或体积内的)[生态]生物量|
-biotin	n.[生化]生物素,维生素H|
-centrifuge	n.离心机|v.用离心机分离;使……受离心作用|
-chloroplast	n.[植]叶绿体|
-coated	adj.上涂料的,上胶的;穿外套的,覆盖着的|v.外面覆盖(coat的过去分词)|
-coconut	n.椰子;椰子肉|
-collaborate	vi.合作;勾结,通敌|
-colonize	vt.将…开拓为殖民地;移于殖民地;从他地非法把选民移入|vi.开拓殖民地;移居于殖民地|
-compaction	n.压紧;精简;密封;凝结|
-constitutes	v.构成(constitute的单三形式);组成|
-cotyledon	n.[植]子叶|
-counterparts	n.(契约)副本(counterpart的复数);相对物;相对应的人|
-cyclin	n.细胞周期素;细胞周期蛋白|
-cytokine	n.[细胞]细胞因子;细胞激素|
-deficiency	n.缺陷,缺点;缺乏;不足的数额|
-delineate	vt.描绘;描写;画…的轮廓|
-depletion	n.消耗;损耗;放血|
-dicots	n.双子叶植物(等于dicotyledons,dicot的复数)|
-elicit	vt.抽出,引出;引起|
-elongation	n.伸长;伸长率;延伸率;延长|
-embryo	n.[胚]胚胎;胚芽;初期|adj.胚胎的;初期的|
-endogenous	adj.[生物]内生的;内因性的|
-endosperm	n.[植]胚乳|
-envelope	n.信封,封皮;包膜;[天]包层;包迹|
-epidermis	n.上皮,表皮|
-expedite	vt.加快;促进;发出|adj.畅通的;迅速的;方便的|
-feasibility	n.可行性;可能性|
-fertilization	n.[农]施肥;[胚]受精;肥沃|
-flatbed	n.长平台;平板车;平台印刷机;(扫描仪等)平台设备|adj.平台的,平板的|
-fluorescent	adj.荧光的;萤光的;发亮的|n.荧光;日光灯|
-fuses	n.[电]保险丝;起爆装置;[军][矿业]导火线(fuse的复数)|v.熔化;把保险丝接入;保险丝烧断;装引信于(fuse的三单形式)|
-gamete	n.[生物]配子,配偶子|
-gametes	n.[生物]配子(gamete的复数)|
-gametophyte	n.[生物]配子体;配偶体|
-glioblastoma	n.恶性胶质瘤;成胶质细胞瘤|
-heterosis	n.[遗]杂种优势|
-hypersensitive	adj.过敏的;高灵敏度的;超感光度的|
-hypochlorite	n.[无化]次氯酸盐;低氧化氯|
-hypocotyl	n.子叶下轴,[植]下胚轴|
-immunity	n.免疫力;豁免权;免除|
-immunology	n.[免疫]免疫学|
-inadequate	adj.不充分的,不适当的|
-incentive	n.动机;刺激|adj.激励的;刺激的|
-infinity	n.无穷;无限大;无限距|
-innate	adj.先天的;固有的;与生俱来的|
-integration	n.集成;综合|
-integument	n.覆盖物;(动植物的)皮肤,外皮|
-interleukin-2	白细胞介素-2|
-ipilimumab	易普利姆玛(药名)|
-lineage	n.血统;家系,[遗]世系|
-magnetic	adj.地磁的;有磁性的;有吸引力的|
-malignant	adj.[医]恶性的;有害的;有恶意的|n.保王党员;怀恶意的人|
-maternal	adj.母亲的;母性的;母系的;母体遗传的|
-melanoma	n.[肿瘤]黑素瘤;胎记瘤|
-meristem	n.[植]分生组织;分裂组织|
-mesophyll	n.[植]叶肉|
-metal	n.金属;合金|vt.以金属覆盖|adj.金属制的|n.(Metal)人名;(捷)梅塔尔;(瑞典)梅塔尔|
-mitochondrial	adj.线粒体的|
-monocots	n.单子叶植物;单子叶植物分支(monocot的复数形式)|
-nuclei	n.核心,核子;原子核(nucleus的复数形式)|
-orchids	n.[园艺]兰花,淡紫色;称赞(orchid的复数)|
-organ	n.器官;机构;风琴;管风琴;嗓音;阴茎|n.(Organ)人名;(英)奥根|
-pagination	n.标记页数;页码|
-peer	n.同等地位的人,同龄人;贵族|v.凝视,盯着看;隐现;看见;匹配|n.(Peer)(美、爱、英)皮尔(人名)|
-peptide	n.肽|
-peripheral	adj.外围的;次要的;(神经)末梢区域的|n.外部设备|
-phytohormones	[植]植物激素|
-plasmid	n.[遗]质粒;质体|
-plasticity	n.塑性,可塑性;适应性;柔软性|
-plentiful	adj.丰富的;许多的;丰饶的;众多的|
-pluripotent	adj.多能(性)的|
-primate	n.灵长目动物(包括人、猴子等);大主教;首领|adj.灵长目动物的;大主教的|
-primordia	n.原基(primordium的复数形式)|
-proliferation	n.增殖,扩散;分芽繁殖|
-pronounced	adj.显著的;断然的;讲出来的|v.发音;宣告;断言(pronounce的过去分词)|
-proofreading	v.校对(proofread的现在分词)|
-pruned	adj.被修剪的(prune的变形)|
-self-fertilization	[植]自花受精|[胚][遗]自体受精|
-serial	adj.连续的;连载的;分期偿还的;连续作案的|n.电视连续剧;期刊;连载小说|n.(Serial)(阿、美、俄、意、英、法)塞力娅乐(人名)|
-shoot	vt.射击,射中;拍摄;发芽;使爆炸;给…注射|vi.射击;发芽;拍电影|n.射击;摄影;狩猎;急流|
-siliqua	长壳|[植]长角果|
-sodium	n.[化学]钠(11号元素,符号Na)|
-somatic	adj.躯体的;肉体的;体壁的|
-sown	v.播种;布满;埋雷;传播(sow的过去分词)|
-spanning	n.[数]生成,长成;跨越;拉线|v.横跨(span的ing形式);用拃丈量|n.(Spanning)人名;(瑞典)斯潘宁|
-spatial	adj.空间的;存在于空间的;受空间条件限制的|
-spontaneous	adj.自发的;自然的;无意识的|
-sporophytic	孢子体的|
-sterilized	adj.无菌的;已消过毒的|v.杀菌;消除;冻结(sterilize的过去分词)|
-stratification	n.层理;成层|
-substantial	adj.大量的;实质的;内容充实的|n.本质;重要材料|
-sucrose	n.[食品][有化]蔗糖|
-syncytial	adj.合胞体的,多核体的|
-synergistically	协同地|协同作用地|以协同方式|
-taped	adj.录在磁带上的;绑住的|v.把……录在磁带上;用胶带粘住、缚紧;用绷带包扎(tape的过去式和过去分词)|
-temporal	adj.暂时的;当时的;现世的|n.世间万物;暂存的事物|n.(Temporal)人名;(法)唐波拉尔|
-therapeutic	adj.治疗的;治疗学的;有益于健康的|n.治疗剂;治疗学家|
-thymic	adj.胸腺的;百里香的,麝香草的|
-thymus	n.胸腺|
-transgenic	adj.转基因的;基因改造的|
-transplantation	n.移植;迁移;移民|
-triallelic	三等位基因的
-trophoblast	n.[胚]滋养层|
-typesetting	v.为……排字(或排版)(typeset的现在分词)|n.排字(工作)|adj.排字用的|
-tyrosinase	n.酪氨酸酶|
-underpinning	n.基础,基础材料;[矿业]支柱,支承结构;支撑|
-undomesticated	adj.不爱做家务的;未驯服的|
-univariate	adj.[数]单变量的|
-utility	n.实用;效用;公共设施;功用|adj.实用的;通用的;有多种用途的|
-vaccinate	vi.接种疫苗|vt.给…注射疫苗|n.被接种牛痘者|
-vaccines	n.[药][计]疫苗|
-vigorously	adv.精神旺盛地,活泼地|
-zygote	n.受精卵;接合子|
-zygotic	adj.[生物]合子的;受精卵的|
-fibrosarcoma	n.[肿瘤]纤维肉瘤|
+abbreviations	n.[语]缩写词,缩略语;[语]缩写(abbreviation的复数)|	1	0	0	0
+adenocarcinoma	n.[肿瘤]腺癌;恶性腺瘤|	2	0	0	0
+adheres	坚持|	1	0	0	0
+adhesion	n.粘附;黏附(力);支持;固定;|	1	0	0	0
+adjuvant	adj.辅助的|n.佐药;辅助物|	1	0	0	0
+advent	n.到来;出现;基督降临;基督降临节|	1	0	0	0
+affinity	n.密切关系;吸引力;姻亲关系;类同|	1	0	0	0
+agar	n.琼脂(一种植物胶)|n.(Agar)人名;(英)阿加;(西、土)阿加尔|	1	0	0	0
+agronomic	adj.农事的;农艺学的|	1	0	0	0
+albeit	conj.虽然,尽管|n.(Albeit)(美、英、马)艾乐贝特(人名)|	1	0	0	0
+allergy	n.过敏症;反感;厌恶|	1	0	0	0
+amenable	adj.有责任的：顺从的,服从的;有义务的;经得起检验的|	1	0	0	0
+angiosperms	n.[植]被子植物(angiosperm的复数)|	1	0	0	0
+antagonize	vt.使…敌对;使…对抗;对…起反作用|vi.引起反抗|	1	0	0	0
+anticipated	adj.预期的;期望的|v.预料(anticipate的过去分词);盼望|	1	0	0	0
+antitumor	n.抗癌抗菌素|	1	0	0	0
+antrum	n.腔;[解剖]窦;房|	1	0	0	0
+apical	adj.顶上的;顶点的|n.舌尖音|	1	0	0	0
+armamentarium	n.全部设备;医疗设备|	1	0	0	0
+attribute	n.属性;特质|vt.归属;把…归于|	1	0	0	0
+autologous	adj.[生物]自体的;自体同源的;正型结构的|	1	0	0	0
+avidity	n.热望,贪欲;活动性|	1	0	0	0
+beads	玻璃粉|	1	0	0	0
+biomass	n.(单位面积或体积内的)[生态]生物量|	1	0	0	0
+biotin	n.[生化]生物素,维生素H|	1	0	0	0
+blockade	n.包围,封锁;障碍物;阻滞,阻塞|v.封锁|	1	0	0	0
+boost	vt.促进;增加;支援|vi.宣扬;偷窃|n.推动;帮助;宣扬|n.(Boost)人名;(英)布斯特;(德)博斯特|	1	0	0	0
+bulk	n.体积,容量;大多数,大部分;大块|vt.使扩大,使形成大量;使显得重要|n.(Bulk)人名;(土)布尔克|	1	0	0	0
+carcinogen	n.致癌物质|	1	0	0	0
+carcinogenesis	n.[肿瘤]致癌作用|	1	0	0	0
+carcinoma	n.[肿瘤]癌|	1	0	0	0
+cellular	adj.细胞的;多孔的;由细胞组成的|n.移动电话;单元|	1	0	0	0
+central	adj.中心的;主要的;中枢的|n.电话总机|	1	0	0	0
+centrifuge	n.离心机|v.用离心机分离;使……受离心作用|	1	0	0	0
+cervical	adj.颈的;子宫颈的|	1	0	0	0
+chimeric	adj.妄想的;荒诞不经的|	1	0	0	0
+chloroplast	n.[植]叶绿体|	1	0	0	0
+chromatography	n.色层分析;色谱分析法|	1	0	0	0
+chronic	adj.慢性的;长期的;习惯性的|n.(Chronic)人名;(英)克罗尼克|	1	0	0	0
+clinicopathological	adj.临床病理的|	1	0	0	0
+coated	adj.上涂料的,上胶的;穿外套的,覆盖着的|v.外面覆盖(coat的过去分词)|	1	0	0	0
+coconut	n.椰子;椰子肉|	1	0	0	0
+cohort	n.一群;步兵大队;支持者;同生群|	1	0	0	0
+collaborate	vi.合作;勾结,通敌|	1	0	0	0
+colonize	vt.将…开拓为殖民地;移于殖民地;从他地非法把选民移入|vi.开拓殖民地;移居于殖民地|	1	0	0	0
+colorectal	adj.结肠直肠的|	1	0	0	0
+compaction	n.压紧;精简;密封;凝结|	1	0	0	0
+concurrent	adj.adj.并发的;一致的;同时发生的;并存的|n.[数]共点;同时发生的事件|	1	0	0	0
+consensus	n.一致;舆论;合意|	1	0	0	0
+constitutes	v.构成(constitute的单三形式);组成|	1	0	0	0
+cotyledon	n.[植]子叶|	1	0	0	0
+counter	n.柜台;对立面;计数器;(某些棋盘游戏的)筹码|vt.反击,还击;反向移动,对着干;反驳,回答|vi.逆向移动,对着干;反驳|adj.相反的|adv.反方向地;背道而驰地|	1	0	0	0
+counterparts	n.(契约)副本(counterpart的复数);相对物;相对应的人|	1	0	0	0
+cyclin	n.细胞周期素;细胞周期蛋白|	1	0	0	0
+cytokine	n.[细胞]细胞因子;细胞激素|	1	0	0	0
+cytosol	n.胞液,细胞溶质;细胞质溶胶|	1	0	0	0
+cytotoxic	adj.[细胞]细胞毒素的|	1	0	0	0
+deficiency	n.缺陷,缺点;缺乏;不足的数额|	2	0	0	0
+deficient	adj.不足的;有缺陷的;不充分的|	1	0	0	0
+delineate	vt.描绘;描写;画…的轮廓|	1	0	0	0
+denote	vt.表示,指示|	1	0	0	0
+depletion	n.消耗;损耗;放血|	2	0	0	0
+deregulate	v.解除对……的管制;撤销对……的规定(或限制)|	1	0	0	0
+descending	v.下降;下倾;降临;下(坡,楼梯);依次递降;(声响)渐低;(感觉,气氛)突然笼罩;交由……继承(descend的现在分词)|adj.递降的|	1	0	0	0
+destruction	n.破坏,毁灭;摧毁|	1	0	0	0
+dicots	n.双子叶植物(等于dicotyledons,dicot的复数)|	1	0	0	0
+diffuse	adj.弥漫的;散开的|vt.扩散;传播;漫射|vi.传播;四散|	1	0	0	0
+dinucleotide	n.[生化]二核苷酸|	1	0	0	0
+draining	adj.使枯竭的;使疲惫的|v.排水;使枯竭;逐渐消失(drain的现在分词)|	1	0	0	0
+duration	n.持续,持续的时间,期间;音长,音延|	1	0	0	0
+efficacious	adj.有效的;灵验的|	1	0	0	0
+efficacy	n.功效,效力|	1	0	0	0
+elicit	vt.抽出,引出;引起|	2	0	0	0
+elimination	n.消除;淘汰;除去|	1	0	0	0
+elongation	n.伸长;伸长率;延伸率;延长|	1	0	0	0
+embryo	n.[胚]胚胎;胚芽;初期|adj.胚胎的;初期的|	1	0	0	0
+embryonic	adj.[胚]胚胎的;似胚胎的|	1	0	0	0
+empiric	adj.经验主义的(等于empirical)|n.经验主义者;江湖医生|	1	0	0	0
+encompass	vt.包含;包围,环绕;完成|	1	0	0	0
+endogenous	adj.[生物]内生的;内因性的|	2	0	0	0
+endometrial	adj.[解剖]子宫内膜的|	1	0	0	0
+endosperm	n.[植]胚乳|	1	0	0	0
+envelope	n.信封,封皮;包膜;[天]包层;包迹|	1	0	0	0
+epidermis	n.上皮,表皮|	1	0	0	0
+eradicate	vt.根除,根绝;消灭|	1	0	0	0
+esophageal	adj.食管的;食道的|	1	0	0	0
+exclusively	adv.唯一地,专有地,排外地;作为唯一的(消息)来源|	1	0	0	0
+exhaustive	adj.详尽的;彻底的;消耗的|	1	0	0	0
+expedite	vt.加快;促进;发出|adj.畅通的;迅速的;方便的|	1	0	0	0
+facilitate	vt.促进;帮助;使容易|	1	0	0	0
+feasibility	n.可行性;可能性|	1	0	0	0
+fertilization	n.[农]施肥;[胚]受精;肥沃|	1	0	0	0
+fibrosarcoma	n.[肿瘤]纤维肉瘤|	1	0	0	0
+flatbed	n.长平台;平板车;平台印刷机;(扫描仪等)平台设备|adj.平台的,平板的|	1	0	0	0
+fluorescent	adj.荧光的;萤光的;发亮的|n.荧光;日光灯|	1	0	0	0
+focal	adj.焦点的,在焦点上的;灶的,病灶的|	1	0	0	0
+frizzled	adj.卷曲的|v.使卷曲(frizzle的过去式和过去分词)|	1	0	0	0
+fuses	n.[电]保险丝;起爆装置;[军][矿业]导火线(fuse的复数)|v.熔化;把保险丝接入;保险丝烧断;装引信于(fuse的三单形式)|	1	0	0	0
+gamete	n.[生物]配子,配偶子|	1	0	0	0
+gametes	n.[生物]配子(gamete的复数)|	1	0	0	0
+gametophyte	n.[生物]配子体;配偶体|	1	0	0	0
+gastric	adj.胃的;胃部的|	1	0	0	0
+gland	n.腺|密封压盖|	1	0	0	0
+glioblastoma	n.恶性胶质瘤;成胶质细胞瘤|	1	0	0	0
+globulin	n.[生化]球蛋白;血球素|	1	0	0	0
+glutamate	n.[生化]谷氨酸盐;[生化]谷氨酸酯|	1	0	0	0
+harbor	n.港,海港;避难所|v.庇护;窝藏;怀有;为……提供庇护;入港停泊;居住,生存|n.(Harbor)(美)哈伯(人名)|	1	0	0	0
+hedgehog	n.刺猬|	1	0	0	0
+hereditary	adj.遗传的;世袭的;世代相传的|n.遗传类|	1	0	0	0
+heterogeneous	adj.由很多种类组成的,混杂的;各种各样的;(化学)不均一的,多相的;(数学)不纯一的,参差的|	1	0	0	0
+heterosis	n.[遗]杂种优势|	1	0	0	0
+heterozygosity	n.[遗]杂合性;异型接合性|	1	0	0	0
+histological	adj.组织学的|	1	0	0	0
+humoral	adj.体液的;温性的;由体液引起的|	1	0	0	0
+hyper	adj.亢奋的;高度紧张的|n.宣传人员|	1	0	0	0
+hypersensitive	adj.过敏的;高灵敏度的;超感光度的|	1	0	0	0
+hypochlorite	n.[无化]次氯酸盐;低氧化氯|	1	0	0	0
+hypocotyl	n.子叶下轴,[植]下胚轴|	1	0	0	0
+immunity	n.免疫力;豁免权;免除|	1	0	0	0
+immunogenicity	n.[免疫]免疫原性;致免疫性;致免疫力|	1	0	0	0
+immunology	n.[免疫]免疫学|	1	0	0	0
+inadequate	adj.不充分的,不适当的|	1	0	0	0
+incentive	n.动机;刺激|adj.激励的;刺激的|	1	0	0	0
+incidence	n.发生率;影响;[光]入射;影响范围|	1	0	0	0
+incidental	adj.附带的;偶然的;容易发生的|n.附带事件;偶然事件;杂项|	1	0	0	0
+incidentally	adv.顺便;偶然地;附带地|	1	0	0	0
+incorporation	n.公司;合并,编入;团体组织|	1	0	0	0
+infiltrate	vt.使潜入;使渗入,使浸润|vi.渗入|n.渗透物|	1	0	0	0
+infiltrating	v.渗透;浸润(infiltrate的ing形式)|adj.浸润的;浸润性的|	1	0	0	0
+infinity	n.无穷;无限大;无限距|	1	0	0	0
+innate	adj.先天的;固有的;与生俱来的|	1	0	0	0
+integrate	vt.使…完整;使…成整体;求…的积分;表示…的总和|vi.求积分;取消隔离;成为一体|adj.整合的;完全的|n.一体化;集成体|	1	0	0	0
+integration	n.集成;综合|	1	0	0	0
+integument	n.覆盖物;(动植物的)皮肤,外皮|	1	0	0	0
+interleukin-2	白细胞介素-2|	2	0	0	0
+interrogate	vt.审问;质问;[计]询问|vi.审问;质问|	1	0	0	0
+intestinal	adj.肠的|	1	0	0	0
+intrinsic	adj.本质的,固有的|	1	0	0	0
+ipilimumab	易普利姆玛(药名)|	1	0	0	0
+junction	n.连接,接合;交叉点;接合点|	1	0	0	0
+leukemia	n.[内科][肿瘤]白血病|	1	0	0	0
+leukocyte	n.白血球|	1	0	0	0
+leverage	n.手段,影响力;杠杆作用;杠杆效率|v.利用;举债经营|	1	0	0	0
+ligand	n.(生化)配位体,配基|	1	0	0	0
+lineage	n.血统;家系,[遗]世系|	1	0	0	0
+lymph	n.[解剖]淋巴,淋巴液;血清|	1	0	0	0
+lymphocyte	n.[免疫]淋巴细胞;淋巴球|	1	0	0	0
+lymphocytes	n.淋巴球(lymphocyte的复数)|	1	0	0	0
+magnetic	adj.地磁的;有磁性的;有吸引力的|	1	0	0	0
+malaria	n.[内科]疟疾;瘴气|	1	0	0	0
+malignancies	n.恶性肿瘤(malignancy的复数)|	1	0	0	0
+malignant	adj.[医]恶性的;有害的;有恶意的|n.保王党员;怀恶意的人|	1	0	0	0
+mass	n.块,团;群众,民众;大量,众多;质量|adj.群众的,民众的;大规模的,集中的|vi.聚集起来,聚集|vt.使集合|	1	0	0	0
+maternal	adj.母亲的;母性的;母系的;母体遗传的|	1	0	0	0
+melanoma	n.[肿瘤]黑素瘤;胎记瘤|	2	0	0	0
+meristem	n.[植]分生组织;分裂组织|	1	0	0	0
+mesophyll	n.[植]叶肉|	1	0	0	0
+metal	n.金属;合金|vt.以金属覆盖|adj.金属制的|n.(Metal)人名;(捷)梅塔尔;(瑞典)梅塔尔|	1	0	0	0
+metaplasia	n.[医]化生,[医]转化;[医]组织变形|	1	0	0	0
+metastatic	adj.(癌细胞的)转移性的;变形的;新陈代谢的|	1	0	0	0
+mitochondrial	adj.线粒体的|	1	0	0	0
+modality	n.形式,形态;程序;物理疗法;主要的感觉|	1	0	0	0
+modulator	n.[电子]调幅器,[电子][通信]调制器;调节人|	1	0	0	0
+monocots	n.单子叶植物;单子叶植物分支(monocot的复数形式)|	1	0	0	0
+mucin	n.[生化]粘蛋白;粘液素|	1	0	0	0
+mucosal	adj.粘膜的|	1	0	0	0
+multidimensional	adj.[数]多维的;多面的|	1	0	0	0
+multifold	adj.多种的;多折的;多倍的|	1	0	0	0
+mutagen	n.诱变剂,诱变因素;突变原|	1	0	0	0
+namely	adv.也就是;即是;换句话说|	1	0	0	0
+neutralize	vt.抵销;使…中和;使…无效;使…中立|vi.中和;中立化;变无效|	1	0	0	0
+nuclei	n.核心,核子;原子核(nucleus的复数形式)|	1	0	0	0
+oncogenic	adj.致瘤的;瘤原性的|	1	0	0	0
+oncology	n.[肿瘤]肿瘤学|	1	0	0	0
+oncolytic	adj.溶瘤细胞的|	1	0	0	0
+optimal	adj.最佳的;最理想的|	1	0	0	0
+orchids	n.[园艺]兰花,淡紫色;称赞(orchid的复数)|	1	0	0	0
+organ	n.器官;机构;风琴;管风琴;嗓音;阴茎|n.(Organ)人名;(英)奥根|	1	0	0	0
+organic	adj.[有化]有机的;组织的;器官的;根本的|	1	0	0	0
+otherwise	adv.否则;另外;在其他方面|adj.另外的;其他方面的;原本,本来|conj.其他;如果不;然后|	1	0	0	0
+pagination	n.标记页数;页码|	1	0	0	0
+pancreatic	adj.胰的;胰腺的|	1	0	0	0
+papilloma	n.乳头状瘤,乳突淋瘤|	1	0	0	0
+paraffin	n.石蜡;[有化]链烷烃;硬石蜡|vt.用石蜡处理;涂石蜡于…|	1	0	0	0
+parentheses	n.parenthesis的复数形式|	1	0	0	0
+participate	vi.参与,参加;分享|vt.分享;分担|[过去式participated过去分词participated现在分词participating]|	1	0	0	0
+peer	n.同等地位的人,同龄人;贵族|v.凝视,盯着看;隐现;看见;匹配|n.(Peer)(美、爱、英)皮尔(人名)|	1	0	0	0
+pending	adj.未决定的;行将发生的|prep.在…期间;直到…时为止;在等待…之际|v.待定;悬而不决(pend的ing形式)|n.(Pending)人名;(瑞典)彭丁|	1	0	0	0
+peptide	n.肽|	1	0	0	0
+peripheral	adj.外围的;次要的;(神经)末梢区域的|n.外部设备|	2	0	0	0
+periphery	n.外围,边缘;圆周;圆柱体表面|	1	0	0	0
+persist	vi.存留,坚持;持续,固执|vt.坚持说,反复说|	1	0	0	0
+perturb	vt.扰乱;使…混乱;使…心绪不宁|	1	0	0	0
+perturbation	n.[数][天]摄动;不安;扰乱|	1	0	0	0
+phytohormones	[植]植物激素|	1	0	0	0
+plasmid	n.[遗]质粒;质体|	1	0	0	0
+plasticity	n.塑性,可塑性;适应性;柔软性|	1	0	0	0
+plateau	n.高原;稳定水平;托盘;平顶女帽|vi.达到平衡;达到稳定时期|	1	0	0	0
+plentiful	adj.丰富的;许多的;丰饶的;众多的|	1	0	0	0
+pluripotent	adj.多能(性)的|	1	0	0	0
+portrait	n.肖像;描写;半身雕塑像|n.(Portrait)人名;(法)波特雷|	1	0	0	0
+possess	vt.控制;使掌握;持有;迷住;拥有,具备|	1	0	0	0
+postulated	[数]公设|	1	0	0	0
+potency	n.效能;力量;潜力;权势|	1	0	0	0
+potent	adj.有效的;强有力的,有权势的;有说服力的|	1	0	0	0
+potentiate	vt.加强;赋与力量|n.统治者|	1	0	0	0
+preclinical	adj.临床前的;现出症状之前的潜伏期的|	1	0	0	0
+predilection	n.偏爱,嗜好|	1	0	0	0
+predispose	vt.预先处置;使…偏向于|	1	0	0	0
+predominant	adj.主要的;卓越的;支配的;有力的;有影响的|	1	0	0	0
+premalignant	adj.恶化前的;癌变前的|	1	0	0	0
+preneoplastic	adj.肿瘤出现前的|	1	0	0	0
+prevalence	n.流行;普遍;广泛|	1	0	0	0
+prevention	n.预防;阻止;妨碍|	1	0	0	0
+primate	n.灵长目动物(包括人、猴子等);大主教;首领|adj.灵长目动物的;大主教的|	1	0	0	0
+primordia	n.原基(primordium的复数形式)|	1	0	0	0
+principle	n.原理,原则;主义,道义;本质,本义;根源,源泉|	1	0	0	0
+prioritization	n.优先次序;优化;优先化|	1	0	0	0
+proclivity	n.倾向;癖性|	1	0	0	0
+prognosis	n.[医]预后;预知|	1	0	0	0
+progression-free	无进展的|	1	0	0	0
+proliferation	n.增殖,扩散;分芽繁殖|	1	0	0	0
+prolonged	adj.延长的;拖延的;持续很久的|	1	0	0	0
+prominent	adj.突出的,显著的;杰出的;卓越的|	1	0	0	0
+promising	adj.有希望的,有前途的|v.许诺,答应(promise的现在分词形式)|	1	0	0	0
+pronounced	adj.显著的;断然的;讲出来的|v.发音;宣告;断言(pronounce的过去分词)|	1	0	0	0
+proofreading	v.校对(proofread的现在分词)|	1	0	0	0
+property	n.性质,性能;财产;所有权|	1	0	0	0
+prophylactic	adj.预防性的,预防疾病的|n.预防性药物(或器具、措施);预防法;避孕用具|	1	0	0	0
+proteasome	n.蛋白酶体|	1	0	0	0
+proteolytic	adj.[生化]蛋白水解的;解蛋白的|n.解朊作用|	1	0	0	0
+pruned	adj.被修剪的(prune的变形)|	1	0	0	0
+purine	n.[有化]嘌呤(四氮杂茚,尿杂环);咖啡碱|	1	0	0	0
+pursue	vt.继续;从事;追赶;纠缠|vi.追赶;继续进行|	1	0	0	0
+pyrimidine	n.嘧啶,密定二氮三烯陆环|	1	0	0	0
+reagent	n.[试剂]试剂;反应物|	1	0	0	0
+reap	vt.收获,获得;收割|vi.收割,收获|n.(Reap)人名;(英)里普|	1	0	0	0
+recurrence	n.再发生;循环;重现;重新提起|	1	0	0	0
+recurrent	adj.复发的;周期性的,经常发生的|	1	0	0	0
+refined	adj.[油气][化工][冶]精炼的;精确的;微妙的;有教养的|	1	0	0	0
+regimen	n.[医]养生法;生活规则;政体;支配|	1	0	0	0
+regression	n.回归;退化;逆行;复原|	1	0	0	0
+reinvigorate	v.使再振作,使复兴|	1	0	0	0
+render	v.致使;提供,回报;援助;提交,提出;作出(裁决);放弃;表达;演奏;翻译;绘制;粉刷;熔化;从(动物身体)提取(蛋白质);秘密偷渡|n.底灰,底泥;交纳|n.(Render)(美、英、加)伦德尔(人名)|	1	0	0	0
+repertoire	n.全部节目;计算机指令系统;(美)某人或机器的全部技能|	1	0	0	0
+replication	n.复制;回答;反响|	1	0	0	0
+repressor	n.阻抑物;阻遏蛋白;镇压者|	1	0	0	0
+resection	n.[外科]切除术	1	0	0	0
+rupture	n.破裂;决裂;疝气|vi.破裂;发疝气|vt.使破裂;断绝;发生疝|	1	0	0	0
+self-fertilization	[植]自花受精|[胚][遗]自体受精|	1	0	0	0
+serial	adj.连续的;连载的;分期偿还的;连续作案的|n.电视连续剧;期刊;连载小说|n.(Serial)(阿、美、俄、意、英、法)塞力娅乐(人名)|	1	0	0	0
+shoot	vt.射击,射中;拍摄;发芽;使爆炸;给…注射|vi.射击;发芽;拍电影|n.射击;摄影;狩猎;急流|	1	0	0	0
+siliqua	长壳|[植]长角果|	1	0	0	0
+sodium	n.[化学]钠(11号元素,符号Na)|	1	0	0	0
+somatic	adj.躯体的;肉体的;体壁的|	1	0	0	0
+sonic	adj.音速的;声音的;音波的|	1	0	0	0
+sought	v.寻找(seek的过去式和过去分词)|	1	0	0	0
+sown	v.播种;布满;埋雷;传播(sow的过去分词)|	1	0	0	0
+spanning	n.[数]生成,长成;跨越;拉线|v.横跨(span的ing形式);用拃丈量|n.(Spanning)人名;(瑞典)斯潘宁|	1	0	0	0
+spatial	adj.空间的;存在于空间的;受空间条件限制的|	1	0	0	0
+specimen	n.样品,样本;标本|	1	0	0	0
+spectrometry	n.[光][分化][物]光谱测定法,[光]度谱术|	1	0	0	0
+spectrum	n.光谱;频谱;范围;余象|	1	0	0	0
+spontaneous	adj.自发的;自然的;无意识的|	1	0	0	0
+sporophytic	孢子体的|	1	0	0	0
+status	n.地位;状态;情形;重要身份|	1	0	0	0
+sterilized	adj.无菌的;已消过毒的|v.杀菌;消除;冻结(sterilize的过去分词)|	1	0	0	0
+stiff	adj.呆板的;坚硬的;僵硬的;严厉的;拘谨的;稠的;(价格)高昂的;(酒)烈性的|adv.极其;僵硬地;彻底地|n.死尸;令人讨厌者;流通票据;劳动者|vt.诈骗;失信|	1	0	0	0
+stratification	n.层理;成层|	1	0	0	0
+striking	adj.显著的,突出的,惊人的;打击的;罢工的|v.打(strike的ing形式)|	1	0	0	0
+suboptimal	adj.次最优的;最适度下的;未达最佳标准的|	1	0	0	0
+subsequent	adj.随后的|	1	0	0	0
+substantial	adj.大量的;实质的;内容充实的|n.本质;重要材料|	1	0	0	0
+substantially	adv.实质上;大体上;充分地|	1	0	0	0
+sucrose	n.[食品][有化]蔗糖|	1	0	0	0
+superimposed	adj.[地物]叠加的;上叠的;重迭的;叠覆的,重叠的|	1	0	0	0
+suppress	vt.抑制;镇压;废止|	1	0	0	0
+suppressive	adj.抑制的;镇压的|	1	0	0	0
+surgical	adj.外科的;手术上的|n.外科手术;外科病房|	1	0	0	0
+sustain	vt.维持;支撑,承担;忍受;供养;证实|	1	0	0	0
+syncytial	adj.合胞体的,多核体的|	1	0	0	0
+synergistically	协同地|协同作用地|以协同方式|	1	0	0	0
+synonymous	adj.同义的;同义词的;同义突变的|	1	0	0	0
+taped	adj.录在磁带上的;绑住的|v.把……录在磁带上;用胶带粘住、缚紧;用绷带包扎(tape的过去式和过去分词)|	1	0	0	0
+temporal	adj.暂时的;当时的;现世的|n.世间万物;暂存的事物|n.(Temporal)人名;(法)唐波拉尔|	1	0	0	0
+therapeutic	adj.治疗的;治疗学的;有益于健康的|n.治疗剂;治疗学家|	2	0	0	0
+thereafter	adv.其后;从那时以后|	1	0	0	0
+thymic	adj.胸腺的;百里香的,麝香草的|	1	0	0	0
+thymus	n.胸腺|	2	0	0	0
+titer	n.滴定量;滴度,效价,值;滴定率(另一种拼写titre)|n.(Titer)(美、俄、加等)蒂特(人名)|	1	0	0	0
+toxins	n.[毒物]毒素,毒质;毒素类(toxin的复数)|	1	0	0	0
+trafficking	n.非法交易(尤指毒品买卖)|vi.交易(traffic的现在分词)|	1	0	0	0
+transgenic	adj.转基因的;基因改造的|	1	0	0	0
+transplantation	n.移植;迁移;移民|	1	0	0	0
+triallelic	三等位基因的	1	0	0	0
+trophoblast	n.[胚]滋养层|	1	0	0	0
+truncate	v.截断,删节;把……截成平面|adj.(叶、羽毛等)截形的;截短的|	1	0	0	0
+typesetting	v.为……排字(或排版)(typeset的现在分词)|n.排字(工作)|adj.排字用的|	1	0	0	0
+tyrosinase	n.酪氨酸酶|	1	0	0	0
+ubiquitination	n.泛素化;遍在蛋白化(作用)|	1	0	0	0
+ultimately	adv.最后;根本;基本上|	1	0	0	0
+underlie	vt.成为……的基础;位于……之下|	1	0	0	0
+underpinning	n.基础,基础材料;[矿业]支柱,支承结构;支撑|	1	0	0	0
+undomesticated	adj.不爱做家务的;未驯服的|	1	0	0	0
+univariate	adj.[数]单变量的|	1	0	0	0
+upfront	adj.预付的;在前面的;正直的,坦率的|adv.在前面;提前支付(工资)|	1	0	0	0
+uptake	n.摄取;领会;举起|	1	0	0	0
+utility	n.实用;效用;公共设施;功用|adj.实用的;通用的;有多种用途的|	1	0	0	0
+vaccinate	vi.接种疫苗|vt.给…注射疫苗|n.被接种牛痘者|	1	0	0	0
+vaccines	n.[药][计]疫苗|	1	0	0	0
+valine	n.[生化]缬氨酸|	1	0	0	0
+vigorously	adv.精神旺盛地,活泼地|	1	0	0	0
+viral	adj.病毒性的|	1	0	0	0
+vulnerability	n.易损性;弱点|	1	0	0	0
+welfare	n.福利;幸福;福利事业;安宁|adj.福利的;接受社会救济的|	1	0	0	0
+zygote	n.受精卵;接合子|	1	0	0	0
+zygotic	adj.[生物]合子的;受精卵的|	1	0	0	0
